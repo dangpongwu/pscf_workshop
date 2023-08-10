@@ -1,0 +1,10 @@
+ESTIMATE_W_FROM_C  in/c.bf
+WRITE_W_BASIS      in/w.bf
+BASIS_TO_RGRID     in/c.bf  in/c.rf
+ITERATE
+WRITE_PARAM   out/dat
+WRITE_THERMO  out/dat
+WRITE_W_BASIS out/w.bf
+WRITE_C_RGRID out/c.rf
+WRITE_C_BASIS out/c.bf
+FINISH
