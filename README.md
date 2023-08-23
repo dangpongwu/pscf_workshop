@@ -7,6 +7,8 @@ The folder "polymer_visual" is a copy of the Matlab program at https://github.co
 
 There is also a file WorkshopDay1.pdf that is a scanned version of the notes from the first day of the workshop. 
 
+There is also a file WorkshopDay2_InputOutput.pdf that contains the slides describing the basic input, output, commands, and workflow of PSCF.
+
 The workshop will use pscf as installed on MSI. The documentation for pscf is located at https://dmorse.github.io/pscfpp-man/.
 
 We will use the Dashboard interface at MSI for running the calculations. Information for this tool is available at https://www.msi.umn.edu/content/using-open-ondemand. To access the actual tool, the link is https://ondemand.msi.umn.edu/. You will need ot log-in using your x500 username and password. If you are not on campus, you also need to be connected by vpn. 
