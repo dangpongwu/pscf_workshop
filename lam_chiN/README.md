@@ -3,7 +3,7 @@
 For AB diblock copolymer, the goal is to obtain converged solution at $\chi N = 25$ and $f_{A} = 0.5$. 
 
 ### Two approaches:
-1. Modify Flory-Huggin $\chi$ parameter while holding $N$ parameter constant.
+1. Modify Flory-Huggins $\chi$ parameter while holding $N$ parameter constant.
 2. Modify $N$ (block length) while holding $\chi$ parameter as constant.
 
 ### Run the code:
